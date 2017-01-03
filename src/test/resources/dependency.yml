@@ -1,0 +1,4 @@
+
+arquillian_core: "org.jboss.arquillian.core:arquillian-core-parent"
+
+arquillian_drone: "org.jboss.arquillian.extension:arquillian-drone-aggregator"
