@@ -1,0 +1,44 @@
+
+arquillian_core: "org.jboss.arquillian.core:arquillian-core-parent"
+
+arquillian_drone: "org.jboss.arquillian.extension:arquillian-drone-aggregator"
+
+arquillian_cube: "org.arquillian.cube:arquillian-cube-parent"
+
+arquillian_cube_q: "org.arquillian.cube.q:arquillian-cube-q"
+
+#arquillian_algeron: "org.arquillian.algeron:arquillian-algeron-parent"
+
+arquillian_graphene: "org.jboss.arquillian.graphene:graphene-parent"
+
+arquillian_warp: "org.jboss.arquillian.extension:arquillian-warp-aggregator"
+
+arquillian_transaction: "org.jboss.arquillian.extension:arquillian-transaction-parent"
+
+arquillian_persistence: "org.jboss.arquillian.extension:arquillian-persistence-parent"
+
+arquillian_spring: "org.jboss.arquillian.extension:arquillian-spring-parent"
+
+arquillian_byteman: "org.jboss.arquillian.extension:arquillian-extension-byteman"
+
+arquillian_jacoco: "org.jboss.arquillian.extension:arquillian-jacoco"
+
+arquillian_recorder: "org.arquillian.extension:arquillian-recorder"
+
+arquillian_governor: "org.arquillian.extension:arquillian-governor-parent"
+
+arquillian_rest: "org.jboss.arquillian.extension:arquillian-rest-parent"
+
+arquillian_spacelift: "org.arquillian.spacelift:arquillian-spacelift-aggregator"
+
+arquillian_chameleon: "org.arquillian.container:arquillian-container-chameleon"
+
+arquillian_cukes_in_space: "com.github.cukespace:cukespace-parent"
+
+shrinkwrap: "org.jboss.shrinkwrap:shrinkwrap-parent"
+
+shrinkwrap_descriptors: "org.jboss.shrinkwrap.descriptors:shrinkwrap-descriptors-parent"
+
+shrinkwrap_resolvers: "org.jboss.shrinkwrap.resolver:shrinkwrap-resolver-parent"
+
+#selenium: "org.seleniumhq.selenium:selenium-java"
