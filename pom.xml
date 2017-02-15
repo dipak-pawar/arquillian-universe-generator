@@ -23,6 +23,7 @@
     <version.jdk>1.8</version.jdk>
     <version.eclipse.jgit>4.5.0.201609210915-r</version.eclipse.jgit>
     <version.egit.github>4.6.0.201612231935-r</version.egit.github>
+    <version.slf4j>1.7.13</version.slf4j>
     <version.gson>2.8.0</version.gson>
     <version.common.cli>1.2</version.common.cli>
     <version.asserj>3.6.1</version.asserj>
@@ -50,6 +51,12 @@
       <groupId>org.eclipse.jgit</groupId>
       <artifactId>org.eclipse.jgit</artifactId>
       <version>${version.eclipse.jgit}</version>
+    </dependency>
+    <dependency>
+      <groupId>org.slf4j</groupId>
+      <artifactId>slf4j-simple</artifactId>
+      <version>${version.slf4j}</version>
+      <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>org.eclipse.mylyn.github</groupId>
